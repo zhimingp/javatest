@@ -12,5 +12,7 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("初试Java的git与github");
+        System.out.println("dev分支");
+
     }
 }
